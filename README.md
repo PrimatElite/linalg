@@ -1,2 +1,1 @@
-# matrix
-library to work with matrices
+# linalg
